@@ -36,7 +36,7 @@
 <td>マイクラ</td>
 <td>
 <a href="https://mc.yuki0311.com">mc.yuki0311.com</a><br>
-<a href="https://wiki.yuki0311.com">wiki.yuki0311.com</a>
+<a href="https://mcwiki.yuki0311.com">mcwiki.yuki0311.com</a>
 </td>
 </tr>
 <tr>
