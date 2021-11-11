@@ -2,8 +2,6 @@
 <h2>Hi there 👋</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fa0311&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fa0311&layout=compact&langs_count=10" />
 </a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
