@@ -14,15 +14,10 @@
     </td>
   </tr>
 </table>
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="865" src="https://github-profile-trophy.vercel.app/?username=fa0311&theme=algolia&column=7&no-bg=true&no-frame=true" />
-      </a>
-    <td>
-  <tr>
-</table>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width="865" src="https://github-profile-trophy.vercel.app/?username=fa0311&theme=algolia&column=7&no-bg=true&no-frame=true" />
+</a>
+<br><br>
 <h2>Links 🔗</h2>
 <a href="https://www.amazon.co.jp/hz/wishlist/ls/21TRR50AUGI7Y">欲しい物リスト</a><br>
 <a href="https://blog.yuki0311.com">ブログ</a><br>
