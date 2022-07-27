@@ -19,9 +19,8 @@
 </a>
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=fa0311&style=flat-square">
-<br><br>
+<br>
 <h2>Links 🔗</h2>
 <a href="https://twitter.com/faa0311">Twitter</a><br>
 <a href="https://www.amazon.co.jp/hz/wishlist/ls/21TRR50AUGI7Y">欲しい物リスト</a><br>
 <a href="https://blog.yuki0311.com">ブログ</a>
-<br><br>
