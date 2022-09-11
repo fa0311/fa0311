@@ -1,0 +1,18 @@
+name: "キリ番報告"
+description: "キリ番を踏んだ人は必ず報告して下さい"
+labels: ["kiriban"]
+body:
+
+  - type: input
+    id: number
+    attributes:
+      label: 踏んだ数
+    validations:
+      required: true
+
+  - type: textarea
+    id: comment
+    attributes:
+      label: コメント
+    validations:
+      required: true
