@@ -20,7 +20,7 @@
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=fa0311&style=flat-square">
 
-キリ番を踏んだ人は<a href="https://github.com/fa0311/fa0311/issues/new?assignees=&labels=kiriban&template=good_turning_point_number.yml">Issues</a>で報告して下さい
+キリ番を踏んだ人は<a href="https://github.com/fa0311/fa0311/discussions/new?category=general">Discussions</a>で報告して下さい
 
 <h2>Links 🔗</h2>
 <a href="https://twitter.com/faa0311">Twitter</a><br>
