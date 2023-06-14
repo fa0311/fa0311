@@ -20,7 +20,7 @@
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=fa0311&style=flat-square">
 
-<a href="https://www.japanesewithanime.com/2016/10/kiriban-meaning.html">キリ番</a>を踏んだ人は<a href="https://github.com/fa0311/fa0311/discussions/new?category=general">Discussions</a>で報告して下さい
+Do you want to send a message? <a href="https://github.com/fa0311/fa0311/discussions/new?category=general">here</a>
 
 <h2>Links 🔗</h2>
 <a href="https://twitter.com/faa0311">Twitter</a><br>
