@@ -20,10 +20,17 @@
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=fa0311&style=flat-square">
 
-Do you want to send a message? <a href="https://github.com/fa0311/fa0311/discussions/new?category=general">here</a>
-
 <h2>Links 🔗</h2>
-<a href="https://twitter.com/faa0311">Twitter</a><br>
+<a href="https://github.com/stars/fa0311/lists/contribute-100">⭐ Contribute List</a><br>
+<a href="https://github.com/sponsors/fa0311">🍺 Github Sponsors</a><br>
+<a href="https://twitter.com/faa0311">🩵 Twitter</a><br>
+
+<h2>Learn more 🎓</h2>
 <a href="https://gist.github.com/fa0311">Github Gist</a><br>
-<a href="https://www.amazon.co.jp/hz/wishlist/ls/21TRR50AUGI7Y">欲しい物リスト</a><br>
-<a href="https://blog.yuki0311.com">ブログ</a><br>
+<a href="https://www.amazon.co.jp/hz/wishlist/ls/21TRR50AUGI7Y">Amazon Wishlist</a><br>
+<a href="https://blog.yuki0311.com">Blog</a><br>
+
+<h2>Message 💬</h2>
+Do you want to send me a message?
+Send it to the issue or discussion in the repository, or send a message to <a href="https://github.com/fa0311/fa0311/discussions/new?category=general">fa0311/dissucation</a>.<br>
+Please do not use closed social services (e.g. Twitter DM) to ask me technical questions.
