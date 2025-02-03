@@ -22,13 +22,15 @@
 
 <h2>Links 🔗</h2>
 <a href="https://github.com/stars/fa0311/lists/contribute-100">⭐ Contribute List</a><br>
-<a href="https://github.com/sponsors/fa0311">🍺 Github Sponsors</a><br>
 <a href="https://twitter.com/faa0311">🩵 Twitter</a><br>
+<a href="https://huggingface.co/fa0311">🤗 HuggingFace</a><br>
+<a href="https://github.com/sponsors/fa0311">🍺 GitHub Sponsors</a><br>
 
 <h2>Learn more 🎓</h2>
 <a href="https://gist.github.com/fa0311">Github Gist</a><br>
 <a href="https://www.amazon.co.jp/hz/wishlist/ls/21TRR50AUGI7Y">Amazon Wishlist</a><br>
-<a href="https://blog.yuki0311.com">Blog</a><br>
+<a href="https://articles.yuki0311.com">Blog</a><br>
+<a href="https://blog.yuki0311.com">Blog(legacy)</a><br>
 
 <h2>Message 💬</h2>
 Do you want to send me a message?
