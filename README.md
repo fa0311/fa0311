@@ -23,7 +23,7 @@
 <h2>Links 🔗</h2>
 <a href="https://github.com/stars/fa0311/lists/contribute-100">⭐ Contribute List</a><br>
 <a href="https://twitter.com/faa0311">🩵 Twitter</a><br>
-<a href="https://huggingface.co/fa0311">🤗 HuggingFace</a><br>
+<a href="https://huggingface.co/fa0311">🤗 Hugging Face</a><br>
 <a href="https://github.com/sponsors/fa0311">🍺 GitHub Sponsors</a><br>
 
 <h2>Learn more 🎓</h2>
