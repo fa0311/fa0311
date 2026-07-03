@@ -3,19 +3,19 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=fa0311&count_private=true&show_icons=true&text_color=03abd4&bg_color=00000000&hide_border=true" />
+      <a href="https://github.com/stats-organization/github-stats-extended">
+        <img src="https://github-stats-extended.vercel.app/api?username=fa0311&count_private=true&show_icons=true&text_color=03abd4&bg_color=00000000&hide_border=true" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fa0311&layout=compact&langs_count=10&text_color=03abd4&bg_color=00000000&hide_border=true" />
+      <a href="https://github.com/stats-organization/github-stats-extended">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fa0311&layout=compact&langs_count=10&text_color=03abd4&bg_color=00000000&hide_border=true" />
       </a>
     </td>
   </tr>
 </table>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="865" src="https://github-profile-trophy.vercel.app/?username=fa0311&theme=algolia&column=7&no-bg=true&no-frame=true" />
+  <img width="865" src="https://github-profile-trophy-unserori.vercel.app/?username=fa0311&theme=algolia&column=7&no-bg=true&no-frame=true" />
 </a>
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=fa0311&style=flat-square">
